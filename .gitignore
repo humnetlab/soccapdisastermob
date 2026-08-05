@@ -1,0 +1,17 @@
+# Run logs — these may capture API keys passed on the command line.
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Spark / DuckDB scratch
+spark-warehouse/
+metastore_db/
+derby.log
+
+# OS
+.DS_Store

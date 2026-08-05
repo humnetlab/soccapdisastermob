@@ -1,0 +1,511 @@
+disaster,t,int_bin,income_group,mean_rog,n
+Florence (2018),-7,Gale-force (50–63kt),High,6.34057234538093,282
+Florence (2018),-7,Gale-force (50–63kt),Low,6.6971548691678935,3713
+Florence (2018),-7,Hurricane-force (>=64kt),High,6.67459902797634,2092
+Florence (2018),-7,Hurricane-force (>=64kt),Low,6.413298182711874,4069
+Florence (2018),-7,No TS winds (<34kt),High,5.549220251976862,75997
+Florence (2018),-7,No TS winds (<34kt),Low,5.267055854077946,92573
+Florence (2018),-7,Tropical-storm (34–49kt),High,6.524456592886924,15086
+Florence (2018),-7,Tropical-storm (34–49kt),Low,6.449733816565597,12196
+Florence (2018),-6,Gale-force (50–63kt),High,7.181245813911394,271
+Florence (2018),-6,Gale-force (50–63kt),Low,6.151987438692695,3543
+Florence (2018),-6,Hurricane-force (>=64kt),High,7.0809262078521025,2005
+Florence (2018),-6,Hurricane-force (>=64kt),Low,5.455621570183727,3882
+Florence (2018),-6,No TS winds (<34kt),High,4.9287892447986685,71527
+Florence (2018),-6,No TS winds (<34kt),Low,4.593790451684222,87014
+Florence (2018),-6,Tropical-storm (34–49kt),High,5.771267653638353,14253
+Florence (2018),-6,Tropical-storm (34–49kt),Low,5.827111641016332,11594
+Florence (2018),-5,Gale-force (50–63kt),High,5.8942230334279,254
+Florence (2018),-5,Gale-force (50–63kt),Low,6.230596601502134,3404
+Florence (2018),-5,Hurricane-force (>=64kt),High,7.710032465997287,1925
+Florence (2018),-5,Hurricane-force (>=64kt),Low,5.220105025553913,3690
+Florence (2018),-5,No TS winds (<34kt),High,4.504773534837371,68036
+Florence (2018),-5,No TS winds (<34kt),Low,4.0569907106571685,83573
+Florence (2018),-5,Tropical-storm (34–49kt),High,5.386640808253271,13661
+Florence (2018),-5,Tropical-storm (34–49kt),Low,4.949586843285283,11268
+Florence (2018),-4,Gale-force (50–63kt),High,6.153704201731829,273
+Florence (2018),-4,Gale-force (50–63kt),Low,5.894005600179194,3530
+Florence (2018),-4,Hurricane-force (>=64kt),High,6.00998906721564,1983
+Florence (2018),-4,Hurricane-force (>=64kt),Low,5.866227397476147,3901
+Florence (2018),-4,No TS winds (<34kt),High,4.266869461703161,70159
+Florence (2018),-4,No TS winds (<34kt),Low,4.262505242826674,85827
+Florence (2018),-4,Tropical-storm (34–49kt),High,4.874134661167934,14323
+Florence (2018),-4,Tropical-storm (34–49kt),Low,5.22186688659684,11679
+Florence (2018),-3,Gale-force (50–63kt),High,6.801301678502563,277
+Florence (2018),-3,Gale-force (50–63kt),Low,8.400389456999026,3429
+Florence (2018),-3,Hurricane-force (>=64kt),High,10.853311411256323,1833
+Florence (2018),-3,Hurricane-force (>=64kt),Low,9.523887309092412,3602
+Florence (2018),-3,No TS winds (<34kt),High,4.155752988182788,70476
+Florence (2018),-3,No TS winds (<34kt),Low,4.1794442072473545,85512
+Florence (2018),-3,Tropical-storm (34–49kt),High,5.581772263669778,14167
+Florence (2018),-3,Tropical-storm (34–49kt),Low,5.408676934332554,11512
+Florence (2018),-2,Gale-force (50–63kt),High,4.6633989658574295,259
+Florence (2018),-2,Gale-force (50–63kt),Low,5.660418018617465,3262
+Florence (2018),-2,Hurricane-force (>=64kt),High,12.182829006119455,1532
+Florence (2018),-2,Hurricane-force (>=64kt),Low,8.69476085180116,3055
+Florence (2018),-2,No TS winds (<34kt),High,4.211012966574693,70237
+Florence (2018),-2,No TS winds (<34kt),Low,4.207365463071962,84946
+Florence (2018),-2,Tropical-storm (34–49kt),High,5.338100246181506,13987
+Florence (2018),-2,Tropical-storm (34–49kt),Low,5.481196022852831,11343
+Florence (2018),-1,Gale-force (50–63kt),High,2.1366306268821673,220
+Florence (2018),-1,Gale-force (50–63kt),Low,2.7517965698234397,2814
+Florence (2018),-1,Hurricane-force (>=64kt),High,2.6793036489471653,1297
+Florence (2018),-1,Hurricane-force (>=64kt),Low,2.205263776392855,2489
+Florence (2018),-1,No TS winds (<34kt),High,4.197201900973284,67307
+Florence (2018),-1,No TS winds (<34kt),Low,4.092137235106347,82007
+Florence (2018),-1,Tropical-storm (34–49kt),High,3.6399922946971865,12299
+Florence (2018),-1,Tropical-storm (34–49kt),Low,3.7388341140573025,10232
+Florence (2018),0,Gale-force (50–63kt),High,0.9135261970467007,175
+Florence (2018),0,Gale-force (50–63kt),Low,0.8002708088347247,2307
+Florence (2018),0,Hurricane-force (>=64kt),High,1.0727359563505061,1161
+Florence (2018),0,Hurricane-force (>=64kt),Low,1.6460238180552627,2148
+Florence (2018),0,No TS winds (<34kt),High,4.775286357062437,65330
+Florence (2018),0,No TS winds (<34kt),Low,4.7092655914130725,79010
+Florence (2018),0,Tropical-storm (34–49kt),High,1.8854864706411696,10119
+Florence (2018),0,Tropical-storm (34–49kt),Low,2.2901303772876016,8669
+Florence (2018),1,Gale-force (50–63kt),High,0.9704121319257117,161
+Florence (2018),1,Gale-force (50–63kt),Low,1.000669056166214,1884
+Florence (2018),1,Hurricane-force (>=64kt),High,2.130295389850229,879
+Florence (2018),1,Hurricane-force (>=64kt),Low,2.305672150129153,1577
+Florence (2018),1,No TS winds (<34kt),High,3.1130766844155535,47503
+Florence (2018),1,No TS winds (<34kt),Low,2.8989235586329007,57389
+Florence (2018),1,Tropical-storm (34–49kt),High,1.577110355111153,8111
+Florence (2018),1,Tropical-storm (34–49kt),Low,1.3415026053522476,6642
+Florence (2018),2,Gale-force (50–63kt),High,1.3372450246879104,141
+Florence (2018),2,Gale-force (50–63kt),Low,1.14338450800835,1649
+Florence (2018),2,Hurricane-force (>=64kt),High,1.16385979014823,754
+Florence (2018),2,Hurricane-force (>=64kt),Low,1.354641351174046,1332
+Florence (2018),2,No TS winds (<34kt),High,1.762250077522887,38097
+Florence (2018),2,No TS winds (<34kt),Low,1.8993936757525305,47462
+Florence (2018),2,Tropical-storm (34–49kt),High,1.1241013070241936,7078
+Florence (2018),2,Tropical-storm (34–49kt),Low,1.1180372166896633,5775
+Florence (2018),3,Gale-force (50–63kt),High,2.562872327829729,208
+Florence (2018),3,Gale-force (50–63kt),Low,2.3927452365705326,2370
+Florence (2018),3,Hurricane-force (>=64kt),High,2.73738940351146,1110
+Florence (2018),3,Hurricane-force (>=64kt),Low,3.046570536099575,2009
+Florence (2018),3,No TS winds (<34kt),High,2.890170502029342,55233
+Florence (2018),3,No TS winds (<34kt),Low,3.114207156008597,67244
+Florence (2018),3,Tropical-storm (34–49kt),High,3.2218574086392078,10464
+Florence (2018),3,Tropical-storm (34–49kt),Low,2.7871870936012364,8509
+Florence (2018),4,Gale-force (50–63kt),High,6.073789958352981,248
+Florence (2018),4,Gale-force (50–63kt),Low,4.86030984090149,2914
+Florence (2018),4,Hurricane-force (>=64kt),High,6.574267181499037,1423
+Florence (2018),4,Hurricane-force (>=64kt),Low,4.108568093619395,2544
+Florence (2018),4,No TS winds (<34kt),High,4.083345737611461,65987
+Florence (2018),4,No TS winds (<34kt),Low,4.099781333303206,79572
+Florence (2018),4,Tropical-storm (34–49kt),High,4.765309513875225,13171
+Florence (2018),4,Tropical-storm (34–49kt),Low,4.687108325917271,10436
+Florence (2018),5,Gale-force (50–63kt),High,8.390407692611362,263
+Florence (2018),5,Gale-force (50–63kt),Low,4.536970669563292,3082
+Florence (2018),5,Hurricane-force (>=64kt),High,6.065920532039279,1497
+Florence (2018),5,Hurricane-force (>=64kt),Low,4.598733900723408,2754
+Florence (2018),5,No TS winds (<34kt),High,4.140470954682659,65766
+Florence (2018),5,No TS winds (<34kt),Low,4.22091014406359,79662
+Florence (2018),5,Tropical-storm (34–49kt),High,4.927261658108897,13167
+Florence (2018),5,Tropical-storm (34–49kt),Low,5.123338732707175,10623
+Florence (2018),6,Gale-force (50–63kt),High,6.451771908653225,261
+Florence (2018),6,Gale-force (50–63kt),Low,4.532862750452844,3121
+Florence (2018),6,Hurricane-force (>=64kt),High,4.433384880594203,1583
+Florence (2018),6,Hurricane-force (>=64kt),Low,4.684279211598239,2931
+Florence (2018),6,No TS winds (<34kt),High,4.5541101866403,67799
+Florence (2018),6,No TS winds (<34kt),Low,4.421654332750396,81315
+Florence (2018),6,Tropical-storm (34–49kt),High,5.156074292189228,13697
+Florence (2018),6,Tropical-storm (34–49kt),Low,5.142470484966448,10857
+Florence (2018),7,Gale-force (50–63kt),High,7.016632038938121,270
+Florence (2018),7,Gale-force (50–63kt),Low,6.302709945170399,3255
+Florence (2018),7,Hurricane-force (>=64kt),High,6.47411151216306,1661
+Florence (2018),7,Hurricane-force (>=64kt),Low,4.309641889342928,3085
+Florence (2018),7,No TS winds (<34kt),High,6.010224696170197,69268
+Florence (2018),7,No TS winds (<34kt),Low,5.59613945787219,83192
+Florence (2018),7,Tropical-storm (34–49kt),High,6.046443878963883,13942
+Florence (2018),7,Tropical-storm (34–49kt),Low,6.2962562135500555,11107
+Irma (2017),-7,Gale-force (50–63kt),High,3.438668557181245,22883
+Irma (2017),-7,Gale-force (50–63kt),Low,3.4438297677425305,28056
+Irma (2017),-7,Hurricane-force (>=64kt),High,3.383764491514567,5727
+Irma (2017),-7,Hurricane-force (>=64kt),Low,3.634499154371117,7827
+Irma (2017),-7,No TS winds (<34kt),High,1.9002829204231855,484
+Irma (2017),-7,No TS winds (<34kt),Low,2.56323446163268,1054
+Irma (2017),-7,Tropical-storm (34–49kt),High,2.837804874784162,1708
+Irma (2017),-7,Tropical-storm (34–49kt),Low,2.836681058859567,1677
+Irma (2017),-6,Gale-force (50–63kt),High,3.550948228100832,22671
+Irma (2017),-6,Gale-force (50–63kt),Low,3.4388601197818875,28217
+Irma (2017),-6,Hurricane-force (>=64kt),High,3.9393009094357323,5743
+Irma (2017),-6,Hurricane-force (>=64kt),Low,3.4650152728957524,7791
+Irma (2017),-6,No TS winds (<34kt),High,1.5190143675606156,447
+Irma (2017),-6,No TS winds (<34kt),Low,2.2119330535203203,1049
+Irma (2017),-6,Tropical-storm (34–49kt),High,2.2729885771117875,1587
+Irma (2017),-6,Tropical-storm (34–49kt),Low,2.9466645127739044,1649
+Irma (2017),-5,Gale-force (50–63kt),High,3.5863301678814423,28174
+Irma (2017),-5,Gale-force (50–63kt),Low,3.8712268960555374,34109
+Irma (2017),-5,Hurricane-force (>=64kt),High,3.8869151734278344,7125
+Irma (2017),-5,Hurricane-force (>=64kt),Low,4.0900033090068435,9502
+Irma (2017),-5,No TS winds (<34kt),High,2.914471106188834,474
+Irma (2017),-5,No TS winds (<34kt),Low,2.601814778168068,1247
+Irma (2017),-5,Tropical-storm (34–49kt),High,3.5013313924812173,1767
+Irma (2017),-5,Tropical-storm (34–49kt),Low,3.964550751333264,1826
+Irma (2017),-4,Gale-force (50–63kt),High,3.7531051391037584,28501
+Irma (2017),-4,Gale-force (50–63kt),Low,3.801748246357626,34385
+Irma (2017),-4,Hurricane-force (>=64kt),High,4.189390081324494,7155
+Irma (2017),-4,Hurricane-force (>=64kt),Low,4.418477334240734,9507
+Irma (2017),-4,No TS winds (<34kt),High,2.1716299398815884,471
+Irma (2017),-4,No TS winds (<34kt),Low,2.710082429732547,1199
+Irma (2017),-4,Tropical-storm (34–49kt),High,3.209872528897949,1728
+Irma (2017),-4,Tropical-storm (34–49kt),Low,3.376611752769271,1806
+Irma (2017),-3,Gale-force (50–63kt),High,3.9572263695801846,28209
+Irma (2017),-3,Gale-force (50–63kt),Low,4.067013804916905,34074
+Irma (2017),-3,Hurricane-force (>=64kt),High,4.007487857421884,6778
+Irma (2017),-3,Hurricane-force (>=64kt),Low,4.370156892607614,9341
+Irma (2017),-3,No TS winds (<34kt),High,3.7280938455745924,486
+Irma (2017),-3,No TS winds (<34kt),Low,2.9803616820811136,1228
+Irma (2017),-3,Tropical-storm (34–49kt),High,3.5965569126671397,1729
+Irma (2017),-3,Tropical-storm (34–49kt),Low,3.710091186342203,1840
+Irma (2017),-2,Gale-force (50–63kt),High,3.018725954369631,28812
+Irma (2017),-2,Gale-force (50–63kt),Low,3.3322122364957765,34716
+Irma (2017),-2,Hurricane-force (>=64kt),High,3.5797620642514056,7160
+Irma (2017),-2,Hurricane-force (>=64kt),Low,3.5042168052987073,9758
+Irma (2017),-2,No TS winds (<34kt),High,3.1871312343469955,515
+Irma (2017),-2,No TS winds (<34kt),Low,2.92303931010861,1281
+Irma (2017),-2,Tropical-storm (34–49kt),High,3.4200278723389825,1840
+Irma (2017),-2,Tropical-storm (34–49kt),Low,3.3393769937750655,1945
+Irma (2017),-1,Gale-force (50–63kt),High,1.8480794567999375,20254
+Irma (2017),-1,Gale-force (50–63kt),Low,1.8388832978836473,25807
+Irma (2017),-1,Hurricane-force (>=64kt),High,2.977563639438054,5121
+Irma (2017),-1,Hurricane-force (>=64kt),Low,3.017742906279066,7534
+Irma (2017),-1,No TS winds (<34kt),High,2.192542250817199,398
+Irma (2017),-1,No TS winds (<34kt),Low,2.3416567822853027,1035
+Irma (2017),-1,Tropical-storm (34–49kt),High,2.44681558789965,1464
+Irma (2017),-1,Tropical-storm (34–49kt),Low,2.5172606762893617,1563
+Irma (2017),0,Gale-force (50–63kt),High,0.5086055082292625,10760
+Irma (2017),0,Gale-force (50–63kt),Low,0.5675485426345847,14440
+Irma (2017),0,Hurricane-force (>=64kt),High,0.646429659823488,2539
+Irma (2017),0,Hurricane-force (>=64kt),Low,0.7814445537378272,4004
+Irma (2017),0,No TS winds (<34kt),High,1.6362040952342318,252
+Irma (2017),0,No TS winds (<34kt),Low,1.4013975792754068,680
+Irma (2017),0,Tropical-storm (34–49kt),High,1.4288750138373572,907
+Irma (2017),0,Tropical-storm (34–49kt),Low,1.3421881916216776,993
+Irma (2017),1,Gale-force (50–63kt),High,1.5420673522275954,14650
+Irma (2017),1,Gale-force (50–63kt),Low,1.541387350733339,18376
+Irma (2017),1,Hurricane-force (>=64kt),High,2.3868741510775506,3364
+Irma (2017),1,Hurricane-force (>=64kt),Low,2.337416559926972,4704
+Irma (2017),1,No TS winds (<34kt),High,1.8159149661650802,328
+Irma (2017),1,No TS winds (<34kt),Low,1.664451877512539,887
+Irma (2017),1,Tropical-storm (34–49kt),High,2.188809501080195,1125
+Irma (2017),1,Tropical-storm (34–49kt),Low,1.249075502520418,1228
+Irma (2017),2,Gale-force (50–63kt),High,2.967727707668108,21368
+Irma (2017),2,Gale-force (50–63kt),Low,2.8933662452241315,25627
+Irma (2017),2,Hurricane-force (>=64kt),High,2.725825643674361,4819
+Irma (2017),2,Hurricane-force (>=64kt),Low,3.3346963287981852,6563
+Irma (2017),2,No TS winds (<34kt),High,2.81175494297746,459
+Irma (2017),2,No TS winds (<34kt),Low,2.6573552230207707,1123
+Irma (2017),2,Tropical-storm (34–49kt),High,3.2882595994029824,1580
+Irma (2017),2,Tropical-storm (34–49kt),Low,3.5001852779549845,1635
+Irma (2017),3,Gale-force (50–63kt),High,3.1718143645748933,21886
+Irma (2017),3,Gale-force (50–63kt),Low,3.3011744106244114,26898
+Irma (2017),3,Hurricane-force (>=64kt),High,3.218303822291401,5104
+Irma (2017),3,Hurricane-force (>=64kt),Low,3.819191940622085,7179
+Irma (2017),3,No TS winds (<34kt),High,2.7487214184508106,418
+Irma (2017),3,No TS winds (<34kt),Low,2.613804618175639,1095
+Irma (2017),3,Tropical-storm (34–49kt),High,3.359944722235521,1482
+Irma (2017),3,Tropical-storm (34–49kt),Low,3.7382335903221966,1595
+Irma (2017),4,Gale-force (50–63kt),High,3.381925451689452,24012
+Irma (2017),4,Gale-force (50–63kt),Low,3.521265375726548,28578
+Irma (2017),4,Hurricane-force (>=64kt),High,3.7186707668695607,5606
+Irma (2017),4,Hurricane-force (>=64kt),Low,3.758058270053696,7696
+Irma (2017),4,No TS winds (<34kt),High,2.4928294456482893,470
+Irma (2017),4,No TS winds (<34kt),Low,2.3320725976135623,1129
+Irma (2017),4,Tropical-storm (34–49kt),High,3.2024825838358373,1598
+Irma (2017),4,Tropical-storm (34–49kt),Low,3.626232661660654,1660
+Irma (2017),5,Gale-force (50–63kt),High,3.6944512199999275,24356
+Irma (2017),5,Gale-force (50–63kt),Low,3.959740500639078,29076
+Irma (2017),5,Hurricane-force (>=64kt),High,4.133903197299919,5750
+Irma (2017),5,Hurricane-force (>=64kt),Low,3.9970718394103724,7867
+Irma (2017),5,No TS winds (<34kt),High,2.611983232305849,471
+Irma (2017),5,No TS winds (<34kt),Low,3.1048878320193194,1116
+Irma (2017),5,Tropical-storm (34–49kt),High,3.578272322104526,1583
+Irma (2017),5,Tropical-storm (34–49kt),Low,4.159879076932535,1676
+Irma (2017),6,Gale-force (50–63kt),High,3.4902402145991007,23288
+Irma (2017),6,Gale-force (50–63kt),Low,3.443797124907022,27864
+Irma (2017),6,Hurricane-force (>=64kt),High,3.675230936338273,5627
+Irma (2017),6,Hurricane-force (>=64kt),Low,3.5381522597064996,7700
+Irma (2017),6,No TS winds (<34kt),High,2.9242858217335828,411
+Irma (2017),6,No TS winds (<34kt),Low,3.1935210086815893,1025
+Irma (2017),6,Tropical-storm (34–49kt),High,3.054177401166429,1437
+Irma (2017),6,Tropical-storm (34–49kt),Low,3.497309760184338,1555
+Irma (2017),7,Gale-force (50–63kt),High,2.9684647628796994,22456
+Irma (2017),7,Gale-force (50–63kt),Low,2.9780424456504377,26888
+Irma (2017),7,Hurricane-force (>=64kt),High,3.005656697787773,5436
+Irma (2017),7,Hurricane-force (>=64kt),Low,2.879871478242668,7450
+Irma (2017),7,No TS winds (<34kt),High,4.653796373217263,413
+Irma (2017),7,No TS winds (<34kt),Low,2.7879352193191003,1008
+Irma (2017),7,Tropical-storm (34–49kt),High,2.5684384791785027,1374
+Irma (2017),7,Tropical-storm (34–49kt),Low,3.0060339976721444,1480
+Imelda (2019),-7,No TS winds (<34kt),High,5.230603306548271,89404
+Imelda (2019),-7,No TS winds (<34kt),Low,5.30200542468673,65438
+Imelda (2019),-6,No TS winds (<34kt),High,5.139753961568686,91352
+Imelda (2019),-6,No TS winds (<34kt),Low,5.24737248980783,66973
+Imelda (2019),-5,No TS winds (<34kt),High,5.614701542871321,98015
+Imelda (2019),-5,No TS winds (<34kt),Low,5.552635512054626,71583
+Imelda (2019),-4,No TS winds (<34kt),High,7.822630104960646,101571
+Imelda (2019),-4,No TS winds (<34kt),Low,7.902423499045146,74340
+Imelda (2019),-3,No TS winds (<34kt),High,6.177007447791231,94464
+Imelda (2019),-3,No TS winds (<34kt),Low,6.431859265577293,68868
+Imelda (2019),-2,No TS winds (<34kt),High,5.844153635360558,85052
+Imelda (2019),-2,No TS winds (<34kt),Low,5.96481663954755,62626
+Imelda (2019),-1,No TS winds (<34kt),High,5.136137555160549,91183
+Imelda (2019),-1,No TS winds (<34kt),Low,5.255698321894689,66405
+Imelda (2019),0,No TS winds (<34kt),High,5.09989502119617,90565
+Imelda (2019),0,No TS winds (<34kt),Low,5.1968194736162445,65993
+Imelda (2019),1,No TS winds (<34kt),High,4.94299258782784,91680
+Imelda (2019),1,No TS winds (<34kt),Low,4.935143190435619,66946
+Imelda (2019),2,No TS winds (<34kt),High,5.347770064736467,94955
+Imelda (2019),2,No TS winds (<34kt),Low,5.343642651917922,69103
+Imelda (2019),3,No TS winds (<34kt),High,7.616359328976826,96789
+Imelda (2019),3,No TS winds (<34kt),Low,7.707743255196575,70064
+Imelda (2019),4,No TS winds (<34kt),High,6.345567798498882,90342
+Imelda (2019),4,No TS winds (<34kt),Low,6.235392785487384,65031
+Imelda (2019),5,No TS winds (<34kt),High,6.2992576480453994,79316
+Imelda (2019),5,No TS winds (<34kt),Low,6.002444416404597,57451
+Imelda (2019),6,No TS winds (<34kt),High,5.152661527429304,83565
+Imelda (2019),6,No TS winds (<34kt),Low,5.270851195302551,60405
+Imelda (2019),7,No TS winds (<34kt),High,5.312067099315369,84131
+Imelda (2019),7,No TS winds (<34kt),Low,5.309702606968455,60708
+Harvey (2017),-7,Gale-force (50–63kt),High,7.141972639162857,1120
+Harvey (2017),-7,Gale-force (50–63kt),Low,8.49266425530589,1286
+Harvey (2017),-7,Hurricane-force (>=64kt),High,7.597132273465307,329
+Harvey (2017),-7,Hurricane-force (>=64kt),Low,7.701330643224638,762
+Harvey (2017),-7,No TS winds (<34kt),High,7.157803704715044,52548
+Harvey (2017),-7,No TS winds (<34kt),Low,7.127452176324642,43232
+Harvey (2017),-7,Tropical-storm (34–49kt),High,7.003737836288295,30991
+Harvey (2017),-7,Tropical-storm (34–49kt),Low,6.996983190204341,17543
+Harvey (2017),-6,Gale-force (50–63kt),High,7.0129881006919375,1060
+Harvey (2017),-6,Gale-force (50–63kt),Low,8.2107699832855,1184
+Harvey (2017),-6,Hurricane-force (>=64kt),High,8.020826321361438,300
+Harvey (2017),-6,Hurricane-force (>=64kt),Low,4.822178385672109,711
+Harvey (2017),-6,No TS winds (<34kt),High,5.802115362371907,48450
+Harvey (2017),-6,No TS winds (<34kt),Low,5.92693893496689,39957
+Harvey (2017),-6,Tropical-storm (34–49kt),High,5.608717574682205,28582
+Harvey (2017),-6,Tropical-storm (34–49kt),Low,5.448389603644917,16265
+Harvey (2017),-5,Gale-force (50–63kt),High,4.98186972160909,811
+Harvey (2017),-5,Gale-force (50–63kt),Low,5.999608296031389,988
+Harvey (2017),-5,Hurricane-force (>=64kt),High,3.1951304075104954,229
+Harvey (2017),-5,Hurricane-force (>=64kt),Low,4.855153903720137,568
+Harvey (2017),-5,No TS winds (<34kt),High,4.024876537236871,37617
+Harvey (2017),-5,No TS winds (<34kt),Low,4.559195206671854,31763
+Harvey (2017),-5,Tropical-storm (34–49kt),High,4.017818641683094,21836
+Harvey (2017),-5,Tropical-storm (34–49kt),Low,4.241478803449599,12910
+Harvey (2017),-4,Gale-force (50–63kt),High,5.217677187211143,1053
+Harvey (2017),-4,Gale-force (50–63kt),Low,4.402141093892907,1188
+Harvey (2017),-4,Hurricane-force (>=64kt),High,4.960053768440931,303
+Harvey (2017),-4,Hurricane-force (>=64kt),Low,4.651683577199168,693
+Harvey (2017),-4,No TS winds (<34kt),High,4.632112163537662,48863
+Harvey (2017),-4,No TS winds (<34kt),Low,4.81636926077234,39264
+Harvey (2017),-4,Tropical-storm (34–49kt),High,4.690784584674599,28924
+Harvey (2017),-4,Tropical-storm (34–49kt),Low,4.6076522380827925,15887
+Harvey (2017),-3,Gale-force (50–63kt),High,4.3396584978545985,956
+Harvey (2017),-3,Gale-force (50–63kt),Low,4.876135545226519,1082
+Harvey (2017),-3,Hurricane-force (>=64kt),High,4.811021815819399,272
+Harvey (2017),-3,Hurricane-force (>=64kt),Low,4.598630513575313,630
+Harvey (2017),-3,No TS winds (<34kt),High,4.218992705454867,41285
+Harvey (2017),-3,No TS winds (<34kt),Low,4.3509848616019875,34115
+Harvey (2017),-3,Tropical-storm (34–49kt),High,4.135252278458069,24455
+Harvey (2017),-3,Tropical-storm (34–49kt),Low,4.259412426202385,13899
+Harvey (2017),-2,Gale-force (50–63kt),High,5.4463043050035465,1087
+Harvey (2017),-2,Gale-force (50–63kt),Low,5.25480903121676,1233
+Harvey (2017),-2,Hurricane-force (>=64kt),High,5.141447229165223,324
+Harvey (2017),-2,Hurricane-force (>=64kt),Low,5.816591317236371,725
+Harvey (2017),-2,No TS winds (<34kt),High,4.462013755865302,47638
+Harvey (2017),-2,No TS winds (<34kt),Low,4.635636573110852,38501
+Harvey (2017),-2,Tropical-storm (34–49kt),High,4.416703264566124,28422
+Harvey (2017),-2,Tropical-storm (34–49kt),Low,4.7210807771730225,15796
+Harvey (2017),-1,Gale-force (50–63kt),High,11.518689845783898,1134
+Harvey (2017),-1,Gale-force (50–63kt),Low,9.837988537153628,1246
+Harvey (2017),-1,Hurricane-force (>=64kt),High,8.053890360045518,332
+Harvey (2017),-1,Hurricane-force (>=64kt),Low,14.217207871719566,772
+Harvey (2017),-1,No TS winds (<34kt),High,4.810701229229201,47169
+Harvey (2017),-1,No TS winds (<34kt),Low,4.926983322602559,38306
+Harvey (2017),-1,Tropical-storm (34–49kt),High,4.909712724857473,28903
+Harvey (2017),-1,Tropical-storm (34–49kt),Low,5.163067151954626,15944
+Harvey (2017),0,Gale-force (50–63kt),High,11.427918707814467,961
+Harvey (2017),0,Gale-force (50–63kt),Low,9.73775614458566,1117
+Harvey (2017),0,Hurricane-force (>=64kt),High,15.05102746606668,273
+Harvey (2017),0,Hurricane-force (>=64kt),Low,11.04402738689735,677
+Harvey (2017),0,No TS winds (<34kt),High,4.72412256791365,47367
+Harvey (2017),0,No TS winds (<34kt),Low,5.026695834953155,38027
+Harvey (2017),0,Tropical-storm (34–49kt),High,4.22952918995193,27233
+Harvey (2017),0,Tropical-storm (34–49kt),Low,4.819782931649059,15405
+Harvey (2017),1,Gale-force (50–63kt),High,5.799447925419542,690
+Harvey (2017),1,Gale-force (50–63kt),Low,2.6402557355142426,807
+Harvey (2017),1,Hurricane-force (>=64kt),High,0.9181516565095553,188
+Harvey (2017),1,Hurricane-force (>=64kt),Low,3.0628296028616484,464
+Harvey (2017),1,No TS winds (<34kt),High,3.8060514507119976,35553
+Harvey (2017),1,No TS winds (<34kt),Low,4.2124138395404005,29539
+Harvey (2017),1,Tropical-storm (34–49kt),High,1.67430707566944,18714
+Harvey (2017),1,Tropical-storm (34–49kt),Low,2.136210155263652,11117
+Harvey (2017),2,Gale-force (50–63kt),High,10.251342416579753,759
+Harvey (2017),2,Gale-force (50–63kt),Low,6.689404065518771,825
+Harvey (2017),2,Hurricane-force (>=64kt),High,2.8460366926953315,189
+Harvey (2017),2,Hurricane-force (>=64kt),Low,4.900017571336627,428
+Harvey (2017),2,No TS winds (<34kt),High,3.1295178950301223,35584
+Harvey (2017),2,No TS winds (<34kt),Low,3.5964250163708997,29051
+Harvey (2017),2,Tropical-storm (34–49kt),High,1.139187130992929,19182
+Harvey (2017),2,Tropical-storm (34–49kt),Low,1.7690400841286462,10980
+Harvey (2017),3,Gale-force (50–63kt),High,6.362199911831447,823
+Harvey (2017),3,Gale-force (50–63kt),Low,5.8989053162114,910
+Harvey (2017),3,Hurricane-force (>=64kt),High,5.523831809379779,203
+Harvey (2017),3,Hurricane-force (>=64kt),Low,6.333800996956801,492
+Harvey (2017),3,No TS winds (<34kt),High,3.8319023685811366,40313
+Harvey (2017),3,No TS winds (<34kt),Low,3.917195465820689,32653
+Harvey (2017),3,Tropical-storm (34–49kt),High,1.6273911458092372,20601
+Harvey (2017),3,Tropical-storm (34–49kt),Low,2.1298938377136936,11799
+Harvey (2017),4,Gale-force (50–63kt),High,4.2012948939178205,909
+Harvey (2017),4,Gale-force (50–63kt),Low,4.433710753541135,1001
+Harvey (2017),4,Hurricane-force (>=64kt),High,3.495425191004722,236
+Harvey (2017),4,Hurricane-force (>=64kt),Low,6.676285317834289,539
+Harvey (2017),4,No TS winds (<34kt),High,4.078351137041551,44390
+Harvey (2017),4,No TS winds (<34kt),Low,4.246303283477091,35395
+Harvey (2017),4,Tropical-storm (34–49kt),High,1.9074671708547375,22020
+Harvey (2017),4,Tropical-storm (34–49kt),Low,2.4962009626036865,12864
+Harvey (2017),5,Gale-force (50–63kt),High,4.206487617016364,929
+Harvey (2017),5,Gale-force (50–63kt),Low,4.740233832125055,1056
+Harvey (2017),5,Hurricane-force (>=64kt),High,4.236459292919042,264
+Harvey (2017),5,Hurricane-force (>=64kt),Low,5.176549938052981,603
+Harvey (2017),5,No TS winds (<34kt),High,4.357499003772174,47090
+Harvey (2017),5,No TS winds (<34kt),Low,4.352152496479779,37240
+Harvey (2017),5,Tropical-storm (34–49kt),High,2.9183957222602768,24655
+Harvey (2017),5,Tropical-storm (34–49kt),Low,3.523210338016625,13987
+Harvey (2017),6,Gale-force (50–63kt),High,4.311900749065116,982
+Harvey (2017),6,Gale-force (50–63kt),Low,4.642594299650772,1105
+Harvey (2017),6,Hurricane-force (>=64kt),High,4.407761253082558,262
+Harvey (2017),6,Hurricane-force (>=64kt),Low,5.547832811742676,600
+Harvey (2017),6,No TS winds (<34kt),High,4.244423184301932,50302
+Harvey (2017),6,No TS winds (<34kt),Low,4.368400437998347,39285
+Harvey (2017),6,Tropical-storm (34–49kt),High,3.620931169103389,26960
+Harvey (2017),6,Tropical-storm (34–49kt),Low,3.916974162623607,15094
+Harvey (2017),7,Gale-force (50–63kt),High,5.3359146919126585,988
+Harvey (2017),7,Gale-force (50–63kt),Low,5.071106406236819,1121
+Harvey (2017),7,Hurricane-force (>=64kt),High,5.659130438426587,269
+Harvey (2017),7,Hurricane-force (>=64kt),Low,6.124844618038441,639
+Harvey (2017),7,No TS winds (<34kt),High,5.223435495918892,50290
+Harvey (2017),7,No TS winds (<34kt),Low,5.321498400490684,39173
+Harvey (2017),7,Tropical-storm (34–49kt),High,4.629767221250904,27026
+Harvey (2017),7,Tropical-storm (34–49kt),Low,4.738367618230996,15173
+Michael (2018),-7,Gale-force (50–63kt),High,3.977387081280767,2701
+Michael (2018),-7,Gale-force (50–63kt),Low,4.415112980696861,6361
+Michael (2018),-7,Hurricane-force (>=64kt),High,4.296836652735371,229
+Michael (2018),-7,Hurricane-force (>=64kt),Low,4.224256268092681,1803
+Michael (2018),-7,No TS winds (<34kt),High,4.288153417969431,92990
+Michael (2018),-7,No TS winds (<34kt),Low,4.2473339235289185,104654
+Michael (2018),-7,Tropical-storm (34–49kt),High,4.68244501712738,8102
+Michael (2018),-7,Tropical-storm (34–49kt),Low,4.80830847513607,15025
+Michael (2018),-6,Gale-force (50–63kt),High,3.6416208544555237,2532
+Michael (2018),-6,Gale-force (50–63kt),Low,3.880468605688254,5881
+Michael (2018),-6,Hurricane-force (>=64kt),High,3.5795555190719286,194
+Michael (2018),-6,Hurricane-force (>=64kt),Low,3.663060328133162,1614
+Michael (2018),-6,No TS winds (<34kt),High,3.653888295804204,85926
+Michael (2018),-6,No TS winds (<34kt),Low,3.5044929382530365,96560
+Michael (2018),-6,Tropical-storm (34–49kt),High,3.835885596430744,7410
+Michael (2018),-6,Tropical-storm (34–49kt),Low,4.079797585306376,13800
+Michael (2018),-5,Gale-force (50–63kt),High,1.318694501822291,2234
+Michael (2018),-5,Gale-force (50–63kt),Low,3.120211634635184,4478
+Michael (2018),-5,Hurricane-force (>=64kt),High,1.386640038825977,150
+Michael (2018),-5,Hurricane-force (>=64kt),Low,1.6401968286576472,1395
+Michael (2018),-5,No TS winds (<34kt),High,1.4467805611870923,63305
+Michael (2018),-5,No TS winds (<34kt),Low,1.691033801750082,72499
+Michael (2018),-5,Tropical-storm (34–49kt),High,1.5936749873581717,5904
+Michael (2018),-5,Tropical-storm (34–49kt),Low,2.005007727710582,10684
+Michael (2018),-4,Gale-force (50–63kt),High,3.6549003374808238,3572
+Michael (2018),-4,Gale-force (50–63kt),Low,5.285348287282024,6380
+Michael (2018),-4,Hurricane-force (>=64kt),High,5.76227431775442,233
+Michael (2018),-4,Hurricane-force (>=64kt),Low,4.742800379140498,2214
+Michael (2018),-4,No TS winds (<34kt),High,5.030717039087853,95364
+Michael (2018),-4,No TS winds (<34kt),Low,4.688754171845401,105551
+Michael (2018),-4,Tropical-storm (34–49kt),High,4.6348649130918655,8763
+Michael (2018),-4,Tropical-storm (34–49kt),Low,4.842653935592112,15487
+Michael (2018),-3,Gale-force (50–63kt),High,3.0269682156294277,3344
+Michael (2018),-3,Gale-force (50–63kt),Low,6.393538326652117,5850
+Michael (2018),-3,Hurricane-force (>=64kt),High,6.06732624120066,203
+Michael (2018),-3,Hurricane-force (>=64kt),Low,3.8003167267817095,2078
+Michael (2018),-3,No TS winds (<34kt),High,4.998862350933692,86533
+Michael (2018),-3,No TS winds (<34kt),Low,4.333019057005221,96172
+Michael (2018),-3,Tropical-storm (34–49kt),High,4.913044985788091,8052
+Michael (2018),-3,Tropical-storm (34–49kt),Low,4.636177993486556,14364
+Michael (2018),-2,Gale-force (50–63kt),High,4.382505956465789,3037
+Michael (2018),-2,Gale-force (50–63kt),Low,8.134310329237097,6023
+Michael (2018),-2,Hurricane-force (>=64kt),High,7.634247674192302,205
+Michael (2018),-2,Hurricane-force (>=64kt),Low,5.7564054570838525,1921
+Michael (2018),-2,No TS winds (<34kt),High,4.143316418795334,89461
+Michael (2018),-2,No TS winds (<34kt),Low,4.074886939055861,99588
+Michael (2018),-2,Tropical-storm (34–49kt),High,4.5002070851922085,8160
+Michael (2018),-2,Tropical-storm (34–49kt),Low,4.601604864862983,14504
+Michael (2018),-1,Gale-force (50–63kt),High,6.926742701069603,2350
+Michael (2018),-1,Gale-force (50–63kt),Low,7.161673641764014,5869
+Michael (2018),-1,Hurricane-force (>=64kt),High,8.340300411866602,190
+Michael (2018),-1,Hurricane-force (>=64kt),Low,8.002486237619252,1452
+Michael (2018),-1,No TS winds (<34kt),High,4.162972589628677,89201
+Michael (2018),-1,No TS winds (<34kt),Low,4.159802969349582,99255
+Michael (2018),-1,Tropical-storm (34–49kt),High,4.6495586113650855,7484
+Michael (2018),-1,Tropical-storm (34–49kt),Low,4.776954203219832,14077
+Michael (2018),0,Gale-force (50–63kt),High,4.493182183944029,1885
+Michael (2018),0,Gale-force (50–63kt),Low,4.445591199993735,5555
+Michael (2018),0,Hurricane-force (>=64kt),High,3.100758760098719,105
+Michael (2018),0,Hurricane-force (>=64kt),Low,2.311310538593802,887
+Michael (2018),0,No TS winds (<34kt),High,4.070468801448131,86698
+Michael (2018),0,No TS winds (<34kt),Low,4.034766465903832,96496
+Michael (2018),0,Tropical-storm (34–49kt),High,3.4293533865208046,6402
+Michael (2018),0,Tropical-storm (34–49kt),Low,3.863922598006137,13098
+Michael (2018),1,Gale-force (50–63kt),High,4.91156042508475,1952
+Michael (2018),1,Gale-force (50–63kt),Low,4.070846436233874,5696
+Michael (2018),1,Hurricane-force (>=64kt),High,5.4228496812495255,52
+Michael (2018),1,Hurricane-force (>=64kt),Low,3.6648909507993115,570
+Michael (2018),1,No TS winds (<34kt),High,4.086117796252737,91377
+Michael (2018),1,No TS winds (<34kt),Low,3.9308730764994104,101776
+Michael (2018),1,Tropical-storm (34–49kt),High,4.090610535967303,7337
+Michael (2018),1,Tropical-storm (34–49kt),Low,3.580621784803526,13983
+Michael (2018),2,Gale-force (50–63kt),High,5.486988643304036,2169
+Michael (2018),2,Gale-force (50–63kt),Low,6.513060751926177,6247
+Michael (2018),2,Hurricane-force (>=64kt),High,5.689994551136889,79
+Michael (2018),2,Hurricane-force (>=64kt),Low,5.138381617725756,698
+Michael (2018),2,No TS winds (<34kt),High,5.674103217497346,98658
+Michael (2018),2,No TS winds (<34kt),Low,5.384861050035411,109094
+Michael (2018),2,Tropical-storm (34–49kt),High,5.8329027456721665,8290
+Michael (2018),2,Tropical-storm (34–49kt),Low,5.919702148297223,15563
+Michael (2018),3,Gale-force (50–63kt),High,4.384917513123095,2056
+Michael (2018),3,Gale-force (50–63kt),Low,6.1019357360102955,5742
+Michael (2018),3,Hurricane-force (>=64kt),High,3.8949128081821542,89
+Michael (2018),3,Hurricane-force (>=64kt),Low,3.7065381956901216,713
+Michael (2018),3,No TS winds (<34kt),High,5.57033549741935,89601
+Michael (2018),3,No TS winds (<34kt),Low,4.943576249414305,98276
+Michael (2018),3,Tropical-storm (34–49kt),High,5.247649170725313,7506
+Michael (2018),3,Tropical-storm (34–49kt),Low,5.486114206956758,14000
+Michael (2018),4,Gale-force (50–63kt),High,4.111745996233795,1800
+Michael (2018),4,Gale-force (50–63kt),Low,8.650994741067665,5207
+Michael (2018),4,Hurricane-force (>=64kt),High,7.931218843096276,95
+Michael (2018),4,Hurricane-force (>=64kt),Low,4.233144355766867,668
+Michael (2018),4,No TS winds (<34kt),High,5.403959725835618,79244
+Michael (2018),4,No TS winds (<34kt),Low,4.563232257394256,87411
+Michael (2018),4,Tropical-storm (34–49kt),High,5.444338845799109,6663
+Michael (2018),4,Tropical-storm (34–49kt),Low,5.043768022329517,12717
+Michael (2018),5,Gale-force (50–63kt),High,4.8186913554037325,1808
+Michael (2018),5,Gale-force (50–63kt),Low,5.376941611444671,5529
+Michael (2018),5,Hurricane-force (>=64kt),High,1.991799697342325,85
+Michael (2018),5,Hurricane-force (>=64kt),Low,5.186028250979463,671
+Michael (2018),5,No TS winds (<34kt),High,4.450835928301659,83268
+Michael (2018),5,No TS winds (<34kt),Low,4.302077086623109,92058
+Michael (2018),5,Tropical-storm (34–49kt),High,4.745916219355228,6967
+Michael (2018),5,Tropical-storm (34–49kt),Low,5.099401489780925,13137
+Michael (2018),6,Gale-force (50–63kt),High,4.448928164153862,1832
+Michael (2018),6,Gale-force (50–63kt),Low,4.400349467760594,5680
+Michael (2018),6,Hurricane-force (>=64kt),High,3.5906327692091744,96
+Michael (2018),6,Hurricane-force (>=64kt),Low,4.39621176744615,836
+Michael (2018),6,No TS winds (<34kt),High,4.253445475622678,85050
+Michael (2018),6,No TS winds (<34kt),Low,4.229844980113292,93933
+Michael (2018),6,Tropical-storm (34–49kt),High,4.71578059696644,7141
+Michael (2018),6,Tropical-storm (34–49kt),Low,4.711284626977683,13364
+Michael (2018),7,Gale-force (50–63kt),High,4.413471565043871,1945
+Michael (2018),7,Gale-force (50–63kt),Low,4.59413503479147,5771
+Michael (2018),7,Hurricane-force (>=64kt),High,4.137796774404069,141
+Michael (2018),7,Hurricane-force (>=64kt),Low,4.427191937276681,995
+Michael (2018),7,No TS winds (<34kt),High,4.337376858625971,87607
+Michael (2018),7,No TS winds (<34kt),Low,4.3360697307967255,96342
+Michael (2018),7,Tropical-storm (34–49kt),High,4.5967007595644604,7374
+Michael (2018),7,Tropical-storm (34–49kt),Low,5.1020384268443,13629
