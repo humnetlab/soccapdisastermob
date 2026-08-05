@@ -145,7 +145,8 @@ def read_aggregate(agg_dir: Path, key: str, required: bool = True) -> pd.DataFra
             f"the raw CDR panel to regenerate it, or restore the file shipped "
             f"with the repository."
         )
-    return pd.read_csv(path)
+    dtype = {"zip": str} if key in ["expansion_factor_zip"] else {}
+    return pd.read_csv(path, dtype=dtype)
 
 
 def kde_on_grid(values: np.ndarray, xlim: tuple[float, float], n: int = 500,
