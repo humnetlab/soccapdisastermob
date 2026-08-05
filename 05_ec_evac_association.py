@@ -747,7 +747,7 @@ def run_figures_stage(args: argparse.Namespace) -> None:
         # The published panel is drawn on the ZIP codes entering the analysis,
         # not on every ZIP code in the country.
         restrict = None
-        intensity_path = Path(args.data_dir) / "rg_variation" / "zip_intensity.csv"
+        intensity_path = Path(args.data_dir) / "processed" / "rg_variation" / "zip_intensity.csv"
         if intensity_path.exists():
             intensity = pd.read_csv(intensity_path, dtype={"home_zip": str})
             restrict = set(norm_zip(intensity["home_zip"]))
@@ -791,7 +791,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
                         help="Repository data directory (default: %(default)s).")
     parser.add_argument("--agg-dir", default=None,
                         help="Directory holding the aggregate tables "
-                             "(default: <data-dir>/ec_evac).")
+                             "(default: <data-dir>/processed/ec_evac).")
     parser.add_argument("--plots-dir", default=str(here / "plots"),
                         help="Directory for the figures (default: %(default)s).")
     parser.add_argument("--dpi", type=int, default=300,
@@ -823,7 +823,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 
     args = parser.parse_args(argv)
     if args.agg_dir is None:
-        args.agg_dir = str(Path(args.data_dir) / "ec_evac")
+        args.agg_dir = str(Path(args.data_dir) / "processed" / "ec_evac")
     if args.social_capital is None:
         args.social_capital = str(
             Path(args.data_dir) / "social_capital" / "social_capital_zip.csv"

@@ -23,5 +23,5 @@ residential ZIP code takes the highest threshold whose footprint contains it:
 | Hurricane force | >= 64 kt |
 
 The result ships as
-[`data/rg_variation/zip_intensity.csv`](../rg_variation/zip_intensity.csv), so
+[`data/processed/rg_variation/zip_intensity.csv`](../processed/rg_variation/zip_intensity.csv), so
 no script parses this file at run time.

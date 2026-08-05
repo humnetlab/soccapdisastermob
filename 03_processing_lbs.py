@@ -1059,7 +1059,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument(
         "--agg-dir", default=None,
         help="Directory holding the LBS aggregate tables "
-             "(default: <data-dir>/lbs_aggregates).",
+             "(default: <data-dir>/processed/lbs_aggregates).",
     )
     parser.add_argument(
         "--plots-dir", default=str(here / "plots"),
@@ -1111,7 +1111,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 
     args = parser.parse_args(argv)
     if args.agg_dir is None:
-        args.agg_dir = str(Path(args.data_dir) / "lbs_aggregates")
+        args.agg_dir = str(Path(args.data_dir) / "processed" / "lbs_aggregates")
 
     if args.stage == "aggregate" and not args.lbs_base_dir:
         parser.error("--lbs-base-dir is required when --stage aggregate")

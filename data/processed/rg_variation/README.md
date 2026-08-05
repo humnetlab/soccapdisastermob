@@ -32,7 +32,7 @@ well as the maps.
 | `int_bin` | Wind intensity bin, as above |
 
 Derived from HURDAT2 best-track data, a copy of which is in
-[`data/hurdat2/`](../hurdat2/): the 34-, 50- and 64-knot wind radii are buffered
+[`data/hurdat2/`](../../hurdat2/): the 34-, 50- and 64-knot wind radii are buffered
 along each track and dissolved, and each ZIP code takes the highest threshold
 whose footprint contains it. Shipped as a fixed input rather than recomputed, so
 the published figures reproduce exactly.
