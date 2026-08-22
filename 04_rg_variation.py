@@ -13,8 +13,9 @@
 For each user and day the radius of gyration is the duration-weighted root mean
 squared distance of the ZIP codes they visited from their duration-weighted
 centre of mass, on ZIP centroids in Web Mercator. Daily values are averaged
-within disaster, day, intensity bin and income group, and smoothed with a
-three-day centred mean before both plotting and fitting.
+within disaster, day and intensity bin, and smoothed with a three-day centred
+mean before both plotting and fitting. The stored panel retains an income-group
+breakdown, which the figure and the regressions average over.
 
 Intensity comes from HURDAT2, binned by maximum sustained wind at each
 residential ZIP code: <34, 34-49, 50-63 and >=64 knots. Imelda appears in the
@@ -39,7 +40,6 @@ import pandas as pd
 import matplotlib
 
 matplotlib.use("Agg")
-import matplotlib.colors as mcolors  # noqa: E402
 import matplotlib.pyplot as plt  # noqa: E402
 from matplotlib.lines import Line2D  # noqa: E402
 from matplotlib.patches import Patch  # noqa: E402
@@ -149,14 +149,6 @@ def norm_zip(values) -> pd.Series:
 def intensity_rank(label: str) -> int:
     """Ordered rank k of an intensity bin; 99 for anything unrecognised."""
     return INTENSITY_ORDER.index(label) if label in INTENSITY_ORDER else 99
-
-
-def lighten(hex_color: str, factor: float = 0.52) -> tuple[float, float, float]:
-    """Blend a colour toward white, used for the low-income series."""
-    r, g, b = mcolors.to_rgb(hex_color)
-    return (1 - (1 - r) * (1 - factor),
-            1 - (1 - g) * (1 - factor),
-            1 - (1 - b) * (1 - factor))
 
 
 def read_aggregate(agg_dir: Path, key: str, required: bool = True) -> pd.DataFrame:
@@ -452,7 +444,7 @@ def run_aggregate_stage(args: argparse.Namespace) -> None:
 # --------------------------------------------------------------------------
 
 def fit_tables(panel: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
-    """Estimate equations (2) and (3) of Supplementary Note 4.
+    """Estimate equations (3) and (4) of the manuscript.
 
     Returns ``(table_s2, table_s3)``. Both use disaster fixed effects and HC3
     standard errors, and are fitted on the storms in
@@ -470,43 +462,44 @@ def fit_tables(panel: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
             + ", ".join(REGRESSION_DISASTERS)
         )
 
-    reg["post"] = (reg["t"] >= 0).astype(int)
-    reg["low_income"] = (reg["income_group"] == "Low").astype(int)
+    # Equations (3) and (4) are specified on disaster-day-bin means, so the
+    # stored panel is collapsed to that grain before fitting. The mean must be
+    # n-weighted: the cells being combined hold very different user counts.
+    reg["_wsum"] = reg["mean_rog"] * reg["n"]
+    reg = (reg.groupby(["disaster", "t", "int_bin"], as_index=False)[["_wsum", "n"]]
+              .sum())
+    reg["mean_rog"] = reg["_wsum"] / reg["n"].where(reg["n"] > 0)
+    reg = reg.drop(columns=["_wsum"])
 
-    # Equation (2): the post-landfall change within each intensity bin.
+    reg["post"] = (reg["t"] >= 0).astype(int)
+
+    # Equation (3): the post-landfall change within each intensity bin.
     rows = []
     for label in INTENSITY_ORDER:
         sub = reg.loc[reg["int_bin"] == label]
         if len(sub) < 10 or sub["post"].nunique() < 2:
             log(f"  skipping bin with insufficient variation: {label}")
             continue
-        model = smf.ols(
-            "mean_rog ~ post * low_income + C(disaster)", data=sub
-        ).fit(cov_type="HC3")
+        model = smf.ols("mean_rog ~ post + C(disaster)", data=sub).fit(cov_type="HC3")
         rows.append({
             "intensity_bin": label,
             "alpha1_km": model.params["post"],
+            "std_err": model.bse["post"],
             "p": model.pvalues["post"],
             "n": len(sub),
-            "interaction_low_income_km": model.params.get("post:low_income", np.nan),
-            "interaction_p": model.pvalues.get("post:low_income", np.nan),
         })
     table_s2 = pd.DataFrame(rows)
 
-    # Equation (3): intensity rank as an ordered covariate.
+    # Equation (4): intensity rank as an ordered covariate.
     reg["int_rank"] = reg["int_bin"].map(intensity_rank)
     reg = reg.loc[reg["int_rank"] < 99]
     pooled = smf.ols(
-        "mean_rog ~ post * low_income * int_rank + C(disaster)", data=reg
+        "mean_rog ~ post * int_rank + C(disaster)", data=reg
     ).fit(cov_type="HC3")
 
     terms = {
         "post": "Post",
         "post:int_rank": r"Post $\times$ k (intensity rank)",
-        "low_income": "Low income",
-        "post:low_income": r"Post $\times$ low income",
-        "low_income:int_rank": r"Low income $\times$ k",
-        "post:low_income:int_rank": r"Post $\times$ low income $\times$ k",
     }
     rows = []
     for term, label in terms.items():
@@ -534,7 +527,7 @@ def write_table_s2(table: pd.DataFrame, out_dir: Path) -> None:
     for row in table.itertuples(index=False):
         p = "<0.001" if row.p < 0.001 else f"{row.p:.3f}"
         log(f"  {row.intensity_bin:28s} a1 = {row.alpha1_km:+.3f} km   "
-            f"p = {p:>6s}   n = {int(row.n)}")
+            f"SE = {row.std_err:.3f}   p = {p:>6s}   n = {int(row.n)}")
 
 
 def write_table_s3(table: pd.DataFrame, out_dir: Path) -> None:
